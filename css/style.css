@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Charmonman|EB+Garamond');
+
+
+body {
+  background-color: white;
+  background-image: url("../images/symphony.png");
+  font-family: 'EB Garamond', serif;
+
+}
+
+h1,h3 {
+  font-family:'Charmonman', cursive;
+}
+
+
+.container {
+  background-color: mistyRose;
+}
+
+#carouselExampleControls {
+  margin: auto;
+}
+
+.synopsis {
+  background-color: rgba(0, 0, 0, 0.31);
+}
